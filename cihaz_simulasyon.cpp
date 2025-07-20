@@ -319,14 +319,3 @@ int main() {
 
     return 0;
 }
-
-
-/* Komut giriniz:
-1 - Tüm cihazları aç
-2 - Tüm cihazları kapat
-3 - Cihaz durumu göster
-4 - Belirli cihazı aç
-5 - Belirli cihazı kapat
-6 - Sensör değerini güncelle
-0 - Çıkış
-*/
